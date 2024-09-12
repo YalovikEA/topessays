@@ -1,0 +1,50 @@
+
+---Downloaded files---
+The import files for: ReViewit were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://topessays.ru
+Data file = /home/u784093343/domains/topessays.ru/public_html/wp-content/uploads/2024/09/demo-content-import-file_2024-09-09__08-08-38.xml
+Widget file = /home/u784093343/domains/topessays.ru/public_html/wp-content/uploads/2024/09/demo-widgets-import-file_2024-09-09__08-08-38.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+---Importing widgets---
+Post Sidebar Area : 
+
+ReHub: Ajax Tabs - No Title - Widget already exists
+ReHub: Better categories - No Title - Widget already exists
+ReHub: Sticky on scroll - No Title - Widget already exists
+
+Footer 1 : 
+
+Text - About Rehub - Widget already exists
+
+Footer 2 : 
+
+Text - No Title - Widget already exists
+
+Footer 3 : 
+
+Text - Sign Up for Weekly Newsletter - Widget already exists
+ReHub: Social icons - No Title - Widget already exists
+
+Custom sidebar area : 
+
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Blog sidebar Area : 
+
+ReHub: Better categories - No Title - Widget already exists
+ReHub: Sticky on scroll - No Title - Widget already exists
+
+
+
+---ocdi/after_import---
+Theme Options was updated-------Customizer was updated-------Menu was assigned-------HomePage was assigned-------
